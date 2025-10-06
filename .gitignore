@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Big environment folder of assets
-StylizedEnvironment/*
+Content\StylizedEnvironment/*
